@@ -17,7 +17,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Alparslan Erol </h1>
 <h3 align="center">Microsoft Azure Certified | Python Developer | Data Scientist</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/alparslan-erol/kaggle" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/alparslan-erol" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
 <a href="https://www.kaggle.com/alparslanerol" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/alparslann001/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100013712924815" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
