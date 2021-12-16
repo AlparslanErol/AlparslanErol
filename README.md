@@ -55,7 +55,7 @@
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
 [comment]: <> (<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlparslanErol&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlparslanErol&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
 <hr>
 <p align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
