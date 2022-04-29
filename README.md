@@ -19,6 +19,7 @@
 </p>
 <hr>
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to my world! </h1>
+
 ```python
 class AlparslanErol():
     
@@ -35,6 +36,7 @@ class AlparslanErol():
 if __name__ == '__main__':
     me = AbhigyanTrips()
 ```
+
 <h3 align="center">Microsoft Azure Certified | Python Developer | Data Engineer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/alparslan-erol" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="lin_ovindu" height="30" width="40" /></a>  
