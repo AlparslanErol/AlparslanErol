@@ -2,9 +2,10 @@
   <img src="https://i.imgur.com/OOpRj.gif" height="200"/>
 </p>
 <br>
+
 <div align="center">
   <a href="https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9?si=RVVma_E-QdO5h7bGl6vgIg">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
 <p align="left"> 
