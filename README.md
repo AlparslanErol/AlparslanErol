@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9?si=RVVma_E-QdO5h7bGl6vgIg">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+    <img src="https://media1.giphy.com/media/6GwFchI7IwZmKhtEno/giphy.gif?cid=ecf05e47rd0dc46zzwuubhp1or1dral4g3su8rsyhpx8as7g&rid=giphy.gif&ct=g">
   </a>
 </div>
 <p align="left"> 
