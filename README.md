@@ -7,8 +7,9 @@
     <img src="https://media2.giphy.com/media/tqfS3mgQU28ko/giphy.gif?cid=ecf05e47sighzme6yvb3rrxhs220h5yale8hxwi3xvxz44dr&rid=giphy.gif&ct=g">
   </a>
 </div>
+<p align="center"> 
 Click on the gif to listen my fav :)<br>
-
+</p>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=AlparslanErol&color=brightgreen" alt="watching_count" />
  </p>
