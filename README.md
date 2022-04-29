@@ -34,7 +34,7 @@ class AlparslanErol():
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = AlparslanErol()
 ```
 
 <h3 align="center">Microsoft Azure Certified | Python Developer | Data Engineer</h3>
