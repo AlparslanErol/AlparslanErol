@@ -2,7 +2,11 @@
   <img src="https://i.imgur.com/OOpRj.gif" height="200"/>
 </p>
 <br>
-
+<div align="center">
+  <a href="https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9?si=RVVma_E-QdO5h7bGl6vgIg">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=AlparslanErol&color=brightgreen" alt="watching_count" />
  </p>
@@ -14,18 +18,35 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Turkish-2bbc8a" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Alparslan Erol </h1>
-<h3 align="center">Microsoft Azure Certified | Python Developer | Data Scientist</h3>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to my world! </h1>
+```python
+class AlparslanErol():
+    
+  def __init__(self):
+    self.name = "Alparslan Erol";
+    self.username = "AlparslanErol";
+    self.location = "Warsaw, Poland";
+    self.twitter = "@emeklivandal";
+    self.web = "https://www.linkedin.com/in/alparslan-erol/";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = AbhigyanTrips()
+```
+<h3 align="center">Microsoft Azure Certified | Python Developer | Data Engineer</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/alparslan-erol" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.kaggle.com/alparslanerol" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/alparslann001/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100013712924815" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
- <a href = "mailto: alparslann.erol@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alparslan-erol" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.kaggle.com/alparslanerol" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="kaggle_ovindu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/alparslann001/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="insta_ovindu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100013712924815" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" alt="fb_ovindu" height="30" width="40" /></a>
+ <a href = "mailto: alparslann.erol@gmail.com"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" height="30" width="40" /></a>
 </p>
 <hr>
 
 ✔ I’m currently working at **EY** as a **Python Developer**<br>
+✔ I’m currently consulting at **Volvo Group Digital Engineering** as a **Data Engineer**<br>
 ✔ I’m currently learning about **Big Data Analytics & Cloud Solutions**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
