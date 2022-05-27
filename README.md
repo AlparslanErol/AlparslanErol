@@ -3,7 +3,7 @@
 </p>
 <br> -->
 <div align="center">
-  <a href="https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9?si=f8515db54e0948ed" target="blank">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1EJzxxDnhUshyg?si=e6217ee54c3a4c63" target="blank">
     <img src="https://media2.giphy.com/media/tqfS3mgQU28ko/giphy.gif?cid=ecf05e47sighzme6yvb3rrxhs220h5yale8hxwi3xvxz44dr&rid=giphy.gif&ct=g" />
   </a>
 </div>
