@@ -7,9 +7,6 @@
     <img src="https://media2.giphy.com/media/tqfS3mgQU28ko/giphy.gif?cid=ecf05e47sighzme6yvb3rrxhs220h5yale8hxwi3xvxz44dr&rid=giphy.gif&ct=g" />
   </a>
 </div>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fmny64dnd8ha2q1qeuu4oa7h7&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
 <p align="center"> 
 Click on the gif to listen my fav :)<br>
 </p>
