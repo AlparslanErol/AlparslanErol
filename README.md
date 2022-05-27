@@ -8,7 +8,9 @@
   </a>
 </div>
 <p align="center"> 
-Click on the gif to listen my fav :)<br>
+  <a href="https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9?si=f8515db54e0948ed" target="blank">
+    Click on the gif to listen my fav :)<br>
+  </a>   
 </p>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=AlparslanErol&color=brightgreen" alt="watching_count" />
