@@ -2,11 +2,11 @@
   <img src="https://i.imgur.com/OOpRj.gif" height="200"/>
 </p>
 <br> -->
-<div align="center">
+<p align="center">
   <a href="https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9?si=f8515db54e0948ed">
     <img src="https://media2.giphy.com/media/tqfS3mgQU28ko/giphy.gif?cid=ecf05e47sighzme6yvb3rrxhs220h5yale8hxwi3xvxz44dr&rid=giphy.gif&ct=g" />
   </a>
-</div>
+</p>
 <p align="center"> 
 Click on the gif to listen my fav :)<br>
 </p>
