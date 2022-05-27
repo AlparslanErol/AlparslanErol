@@ -8,7 +8,7 @@
   </a>
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fmny64dnd8ha2q1qeuu4oa7h7&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=fmny64dnd8ha2q1qeuu4oa7h7&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fmny64dnd8ha2q1qeuu4oa7h7&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center"> 
 Click on the gif to listen my fav :)<br>
