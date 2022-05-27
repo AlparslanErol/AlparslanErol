@@ -10,7 +10,10 @@
 <p align="center"> 
   <a href="https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9?si=f8515db54e0948ed" target="blank">
     Click here to listen my fav :)<br>
-  </a>   
+  </a> 
+  <a href="https://open.spotify.com/playlist/37i9dQZF1EJzxxDnhUshyg?si=e6217ee54c3a4c63" target="blank">
+    Fav Playlist :)<br>
+  </a>     
 </p>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=AlparslanErol&color=brightgreen" alt="watching_count" />
