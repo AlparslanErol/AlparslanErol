@@ -9,7 +9,7 @@
 </div>
 <p align="center"> 
   <a href="https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9?si=f8515db54e0948ed" target="blank">
-    Click on the gif to listen my fav :)<br>
+    Click here to listen my fav :)<br>
   </a>   
 </p>
 <p align="left"> 
