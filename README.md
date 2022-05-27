@@ -11,7 +11,7 @@
   <a href="https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9?si=f8515db54e0948ed" target="blank">
     Click here to listen my fav :)<br>
   </a> 
-  <a href="https://open.spotify.com/playlist/37i9dQZF1EJzxxDnhUshyg?si=e6217ee54c3a4c63" target="blank">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1E8IHdQmbiLGEN?si=483d99b9c0b64ef1" target="blank">
     Fav Playlist :)<br>
   </a>     
 </p>
