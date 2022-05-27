@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/086myS9r57YsLbJpU0TgK9?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fmny64dnd8ha2q1qeuu4oa7h7&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=fmny64dnd8ha2q1qeuu4oa7h7&redirect=true)
 
 <p align="center"> 
 Click on the gif to listen my fav :)<br>
