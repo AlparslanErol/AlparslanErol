@@ -83,7 +83,7 @@ if __name__ == '__main__':
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 
 <hr>
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
 [comment]: <> (<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlparslanErol&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlparslanErol&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
