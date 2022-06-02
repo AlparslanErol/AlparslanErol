@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Turkish-2bbc8a" />
 </p>
 <hr>
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">, Welcome to my world! </h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" width="40">, Welcome to my world! </h1>
 
 ```python
 class AlparslanErol():
