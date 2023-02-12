@@ -19,7 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=AlparslanErol&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-25-red" />
+<img src="https://img.shields.io/badge/Age-26-red" />
   <img src="https://img.shields.io/badge/Focus-Software%20Development-2bbc8a" />
   <img src="https://img.shields.io/badge/Focus-Data%20Science-2bbc8a" />
   <img src="https://img.shields.io/badge/Lives-Warsaw-2bbc8a" />
