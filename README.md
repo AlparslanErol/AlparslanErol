@@ -55,10 +55,9 @@ if __name__ == '__main__':
 </p>
 <hr>
 
-✔ I’m currently working at **EY** as a **Python Developer**<br>
-✔ I’m currently consulting at **Volvo Group Digital Engineering** as a **Data Engineer**<br>
+✔ I’m currently working at **PepsiCo** as a **Data Engineer**<br>
 ✔ I’m currently learning about **Big Data Analytics & Cloud Solutions**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
+✔ I’m looking to collaborate with any **Open - Source data related projects**<br>
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 
 <hr>
